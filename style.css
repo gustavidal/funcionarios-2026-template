@@ -23,7 +23,7 @@ body {
 .card {
     background-color: #fff;
     border-radius: 12px;
-    width: 160px;
+    width: 200px;
     padding: 20px 16px;
     display: flex;
     flex-direction: column;
